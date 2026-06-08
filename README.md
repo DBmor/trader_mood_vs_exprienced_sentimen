@@ -41,5 +41,5 @@ The primary transaction data used for this project is compiled from live public 
 * **Market Sentiment Data:** https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view
 
 ## How to run it 
-pip install -r requirements.txt 
+* pip install -r requirements.txt 
 * jupyter notebook Trader_Behavior_vs_Market_Sentiment.ipynb
